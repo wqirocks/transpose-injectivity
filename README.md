@@ -1,6 +1,7 @@
 Lean formalization for the paper [*Transpose Symmetry of Injectivity Over Commutative Semirings*.](https://arxiv.org/html/2608.16205v1)
 
 **Theorem.** Let $R$ be a commutative semiring and let $A\in M_n(R)$, where $n\geq1$. Then
+
 $$
 A:R^n\longrightarrow R^n\quad\text{is injective}
 \quad\Longleftrightarrow\quad
